@@ -57,11 +57,3 @@ Cluster를 구성하는 각 노드들은 master 노드들.
 
 하나의 클러스터 > 여러개의 master > 여러개의 slave로 구성. 
 ```
-
-## 참고 
-
-https://brunch.co.kr/@jehovah/20
-
-https://daddyprogrammer.org/post/1601/redis-cluster/
-
-https://medium.com/garimoo/redis-documentation-2-%EB%A0%88%EB%94%94%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-911ba145e63
