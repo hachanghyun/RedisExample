@@ -60,9 +60,4 @@
     4. Job Queue
     5. 여러 서버의 데이터를 공유 할 때
 
-## 참고 
-
-https://sabarada.tistory.com/177?category=856943
-
-https://brunch.co.kr/@jehovah/20
     
